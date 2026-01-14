@@ -45,4 +45,4 @@ This project demonstrates proficiency in **frontend development, data analysis, 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cognitive-wellness-assistant.git
+   git clone https://github.com/yourusername/CognitiveWellnessAssistant.git
